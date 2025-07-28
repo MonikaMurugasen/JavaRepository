@@ -6,7 +6,6 @@ public class TestRunner {
 	
 	@Test
 	private void demo() {
-System.out.println("DEM-1");
 	}
 
 }
